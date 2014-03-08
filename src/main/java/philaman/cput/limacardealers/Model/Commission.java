@@ -10,7 +10,7 @@ import java.util.Objects;
  *
  * @author phila
  */
-public class Commission {
+public final class Commission {
 
     private String id;
     private SalesGrade rate;

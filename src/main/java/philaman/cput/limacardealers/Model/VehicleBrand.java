@@ -8,7 +8,7 @@ package philaman.cput.limacardealers.Model;
  *
  * @author phila
  */
-public class VehicleBrand {
+public final class VehicleBrand {
 
     private String id;
     private String name;

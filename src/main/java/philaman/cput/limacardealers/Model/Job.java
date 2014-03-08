@@ -10,7 +10,7 @@ import java.util.Objects;
  *
  * @author phila
  */
-public class Job {
+public final class Job {
 
     private String jobid;
     private String jobDescription;

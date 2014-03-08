@@ -8,7 +8,7 @@ package philaman.cput.limacardealers.Model;
  *
  * @author phila
  */
-public class Address {
+public final class Address {
 
     private String id;
     private String houseNumber;

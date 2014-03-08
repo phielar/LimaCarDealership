@@ -8,7 +8,7 @@ package philaman.cput.limacardealers.Model;
  *
  * @author phila
  */
-public class VehicleColour {
+public final class VehicleColour {
 
     private String id;
     private String vehicleVIN;

@@ -5,7 +5,7 @@ import java.util.Objects;
 /**
  * Created by phila on 3/7/14.
  */
-public class GeneralWorker {
+public final class GeneralWorker {
 
     private String id;
     private int hoursWorked;

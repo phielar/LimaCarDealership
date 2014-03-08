@@ -10,7 +10,7 @@ import java.util.Objects;
  *
  * @author phila
  */
-public class Employee {
+public final class Employee {
 
     private String empNumber;
     private String empFirstname;

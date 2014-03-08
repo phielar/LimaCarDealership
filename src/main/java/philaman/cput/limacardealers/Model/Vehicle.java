@@ -10,7 +10,7 @@ import java.util.List;
  *
  * @author phila
  */
-public class Vehicle {
+public final class Vehicle {
 
     private String v_id;
     private String name;

@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Created by Phila on 3/7/14.
  */
-public class Inventory {
+public final class Inventory {
 
     private String id;
     private List<Vehicle> car;

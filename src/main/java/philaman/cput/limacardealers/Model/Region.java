@@ -11,7 +11,7 @@ import java.util.Objects;
  *
  * @author phila
  */
-public class Region {
+public final class Region {
 
     private String locationCode;
     private String locationDescription;

@@ -10,7 +10,7 @@ import java.util.Objects;
  *
  * @author phila
  */
-public class Department {
+public final class Department {
 
     private String depId;
     private String department;

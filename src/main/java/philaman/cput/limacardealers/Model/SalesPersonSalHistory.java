@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by phila on 3/7/14.
  */
-public class SalesPersonSalHistory {
+public final class SalesPersonSalHistory {
 
     private String id;
     private SalesPerson salesMan;
